@@ -5,4 +5,3 @@ def count_occurrences(phrase: str, letter: str) -> int:
             count_letters += 1
     return count_letters
 
-
